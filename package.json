@@ -1,0 +1,24 @@
+{
+	"name": "tools-to-transform-by-diego",
+	"version": "1.0.1",
+	"description": "This is a package to transform strings to numbers and numbers to strings in a context from applications web that work with prices.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DiegoDelgadoMao/tools-to-transform-by-diego.git"
+	},
+	"keywords": [],
+	"author": "Diego Delgado Mao <diegomauricio.delgadoe@gmail.com> (https://diegodelgadomao.github.io/Portafolio/)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/DiegoDelgadoMao/tools-to-transform-by-diego/issues"
+	},
+	"homepage": "https://github.com/DiegoDelgadoMao/tools-to-transform-by-diego#readme",
+	"bin": {
+		"tools-to-transform-by-diego": "./bin/global.js"
+	},
+	"preferGlobal": true
+}
