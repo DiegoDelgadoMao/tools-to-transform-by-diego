@@ -16,9 +16,5 @@
 	"bugs": {
 		"url": "https://github.com/DiegoDelgadoMao/tools-to-transform-by-diego/issues"
 	},
-	"homepage": "https://github.com/DiegoDelgadoMao/tools-to-transform-by-diego#readme",
-	"bin": {
-		"tools-to-transform-by-diego": "./bin/global.js"
-	},
-	"preferGlobal": true
+	"homepage": "https://github.com/DiegoDelgadoMao/tools-to-transform-by-diego#readme"
 }
