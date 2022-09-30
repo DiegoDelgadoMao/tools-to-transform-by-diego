@@ -1,4 +1,4 @@
-const numberToString = (number) => {
+export const numberToString = (number) => {
 	let initialTransform = number.toString();
 	let arrayOfNumbers = initialTransform.split('');
 
@@ -30,13 +30,13 @@ const numberToString = (number) => {
 	return value;
 }
 
-const stringToNumber = (string) => {
+export const stringToNumber = (string) => {
 	let value = Number(string.replaceAll('.', ''))
 
 	return value
 }
 
-module.exports = {
-	stringToNumber,
-	numberToString
-}
+// module.exports = {
+// 	stringToNumber,
+// 	numberToString
+// }
