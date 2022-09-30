@@ -1,6 +1,6 @@
 {
 	"name": "tools-to-transform-by-diego",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "This is a package to transform strings to numbers and numbers to strings in a context from applications web that work with prices.",
 	"main": "src/index.js",
 	"scripts": {
